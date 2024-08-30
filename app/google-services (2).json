@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "291670702124",
+    "project_id": "art-gallery-90916",
+    "storage_bucket": "art-gallery-90916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291670702124:android:cb767ef620b13f9d2a7989",
+        "android_client_info": {
+          "package_name": "com.example.art_gallery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClIhkoz8bDNfNh7-Z9Rgsj1kn3Djt7RaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291670702124:android:863f786513d707362a7989",
+        "android_client_info": {
+          "package_name": "com.example.gallery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClIhkoz8bDNfNh7-Z9Rgsj1kn3Djt7RaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
